@@ -1,0 +1,7 @@
+notes	TA  order
+"(Euploid)"	CS  1
+"(Ditelo - Dt2AS, M4D)"	18S1-224-5  2
+"(Het-deletion - 6Dt)"	18SI-535-6  3
+"(Nulli-mono-tetra - N1A, M4A, T1B)"	18S1-278-3  4
+"(Two terminal deletions - 4BL-5, 6AL-4)" 17SI-323-3  5
+"(Single terminal deletion - 1AS-2)"  17SI-334-1  6
